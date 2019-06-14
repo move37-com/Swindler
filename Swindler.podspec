@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Sources', 'Sources/**/*.{h,swift}'
 
-  s.dependency 'PromiseKit/CorePromise', '~> 6.0'
+  s.dependency 'PromiseKit/CorePromise', '~> 6.8'
   s.dependency 'AXSwift', '0.2.3'
 
   s.frameworks = 'Cocoa'
