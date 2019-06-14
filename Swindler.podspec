@@ -31,4 +31,6 @@ Pod::Spec.new do |s|
   s.dependency 'AXSwift', '0.2.3'
 
   s.frameworks = 'Cocoa'
+
+  s.swift_version = '4.2'
 end
